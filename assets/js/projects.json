@@ -1,0 +1,47 @@
+[
+  {
+    "name": "NotesHub",
+    "desc": "NotesHub saver. Stores Notes in LocalStorage. TailwindCSS",
+    "meta": "NotesHub"
+  },
+  {
+    "name": "Temperature Converter",
+    "desc": "Temperature converter celsius to kelvin and fahrenhiet live.",
+    "meta": "Temperature Convertor"
+  },
+  {
+    "name": "Words Counter",
+    "desc": "Words and character counter. Live Counter JavaScript Project.",
+    "meta": "Word Count"
+  },
+  {
+    "name": "Simple Stopwatch",
+    "desc": "Simple stopwatch with start, stop and reset features.",
+    "meta": "Stopwatch"
+  },
+  {
+    "name": "Todo List",
+    "desc": "Simple Todo List Webapp With Modern UI And Glassmorphism.",
+    "meta": "Todo Application"
+  },
+  {
+    "name": "Password Generator",
+    "desc": "A Basic Password Generator As Per The User Selected Criteria.",
+    "meta": "Password Generator"
+  },
+  {
+    "name": "Issue Tracker",
+    "desc": "Assign Issue With The Auto Generated Id By Using ChanceJS. Uses LocalStorage.",
+    "meta": "Issue Tracker"
+  },
+  {
+    "name": "Simple Calculator",
+    "desc": "A Simple Caculator Built Using JQuery.",
+    "meta": "Basic Calculator"
+  },
+  {
+    "name": "Clock",
+    "desc": "Basic Neomorphism Clock With Hour, Min, Sec With Light And Dark Mode. Tilt Effect.",
+    "meta": "Clock"
+  }
+]
