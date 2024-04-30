@@ -43,7 +43,7 @@ body {
 }
 
 section {
-  /* min-height: 100vh; */
+  min-height: 100vh;
   padding: 0 7%;
 }
 
@@ -340,7 +340,6 @@ header a.conbtn:hover {
 }
 
 /* project section ends */
-
 
 /* apibased section starts */
 .apibased {
@@ -697,6 +696,10 @@ header a.conbtn:hover {
 
 .social-icons a.linkedin:hover {
   background-color: #007bb6;
+}
+
+.social-icons a.youtube:hover {
+  background-color: #e60606;
 }
 
 .social-icons a.instagram:hover {
